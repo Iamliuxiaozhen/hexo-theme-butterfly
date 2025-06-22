@@ -55,7 +55,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://avatars.githubusercontent.com/u/209132086?v=4
   effect: false
 
 # Disable all banner images
@@ -287,7 +287,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Carry-Hong
   card_announcement:
     enable: true
     content: This is my Blog
