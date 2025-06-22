@@ -290,7 +290,7 @@ aside:
       link: https://github.com/Carry-Hong
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 这是我的社区，使用了Hexo框架，<a href="">ZIT小圳创科工作室提供帮助</a>
   card_recent_post:
     enable: true
     # If set 0 will show all
