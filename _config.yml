@@ -680,7 +680,7 @@ crisp:
 baidu_analytics:
 
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-GC6VJE27CS
 
 # https://www.cloudflare.com/zh-tw/web-analytics/
 cloudflare_analytics:
